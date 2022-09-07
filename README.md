@@ -1,1 +1,1 @@
-# hex-ecosystem-data
+# icosahedron-ecosystem
